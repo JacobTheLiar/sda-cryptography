@@ -1,4 +1,4 @@
-package SDAcryptography;
+package sda.cryptography;
 
 import static org.junit.Assert.assertTrue;
 
